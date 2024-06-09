@@ -23,6 +23,7 @@ public class AppConfig {
     // call AppConfig.memberRepository
 
     // 실제 찍힌 메시지
+    // hello
 
     // call AppConfig.memberService
     // call AppConfig.memberRepository
